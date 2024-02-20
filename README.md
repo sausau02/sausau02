@@ -16,6 +16,7 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://th.bing.com/th?id=OIP.8izzSw1ySwLQgk27TSrQCwAAAA&w=304&h=171&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
