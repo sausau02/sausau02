@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Datasets for Analysis and Visualization projects.
 - 🌱 I’m currently learning Machine Learning and Python.
 - ⚡ Fun fact - I love to pay attention to details :)
+
+# 💻 Tech Stack:
+Python MySQL Postgres SQLite Canva NumPy Pandas Plotly
